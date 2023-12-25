@@ -1,1 +1,3 @@
-# Rafail-Jabrayilov
+- Hi, I'm Rafail-Jabrayilov
+- I'm interested in Python, Django, HTML and Data Science
+- I'm currently learning Django and HTML
