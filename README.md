@@ -1,3 +1,4 @@
 - Hi, I'm Rafail-Jabrayilov
-- I'm interested in Python, Django, HTML and Data Science
-- I'm currently learning Django and HTML
+- I'm Software Quality Assurance Engineer
+- I'm interested in Java, Selenium, TestNG, Cucumber and other Automation tools
+- I'm currently praticing TestNG Automation
